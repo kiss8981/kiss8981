@@ -1,15 +1,15 @@
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/kiss8981" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://kiss8981.github.io" target="_blank">
-<img src=https://img.shields.io/badge/blog-%2324292e.svg?&style=for-the-badge&logo=rss&logoColor=white alt=blog style="margin-bottom: 5px;" />
-</a>
+  <a href="https://github.com/kiss8981" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://kiss8981.github.io" target="_blank">
+  <img src=https://img.shields.io/badge/blog-%2324292e.svg?&style=for-the-badge&logo=rss&logoColor=white alt=blog style="margin-bottom: 5px;" />
+  </a>
 </div>  
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table align="center" overflow="hidden"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats-kiss8981.vercel.app/api?username=kiss8981&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
