@@ -1,5 +1,8 @@
-## Connect with me  
-<div align="center">
+### Hi there 👋
+- 🤷 무엇이든 시도해 보는 개발자
+
+### Connect with me  
+<div align="left">
   <a href="https://github.com/kiss8981" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
@@ -8,61 +11,52 @@
   </a>
 </div>  
 
-## Github Stats  
-<table align="center" overflow="hidden"><tr><td valign="top" width="50%">
+### My Skill Set
+<img src="https://github-readme-stats-kiss8981.vercel.app/api?username=kiss8981&show_icons=true&count_private=true&hide_border=true" align="right" />
 
-<img src="https://github-readme-stats-kiss8981.vercel.app/api?username=kiss8981&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats-kiss8981.vercel.app/api/top-langs/?username=kiss8981&count_private=true&layout=compact&hide_border=true" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<h4 align="left"><b>Language</b></h4>
+<p align="left">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-%23007396?style=flat">
+</p>
 
 
+<h4 align="left"><b>Front</b></h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
+</p>
 
-### Frontend  
-<div align="center">  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
+<h4 align="left"><b>Back</b></h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+</p>
 
-</td><td valign="top" width="33%">
+<h4 align="left"><b>App</b></h4>
+<p align="left">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white">
+</p>
 
+<h4 align="left"><b>Engine</b></h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
+</p>
 
+<h4 align="left"><b>Etc...</b></h4>
+<p align="left">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+</p>
 
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a> <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td></tr></table>
