@@ -55,6 +55,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel">
   <img alt="Static Badge" src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
