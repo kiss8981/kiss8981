@@ -3,8 +3,8 @@
 
 ### Connect with me  
 <div align="left">
-  <a href="https://github.com/kiss8981" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <a href="https://www.linkedin.com/in/dhkim0319" target="_blank">
+  <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
   </a>
   <a href="https://kiss8981.github.io" target="_blank">
   <img src=https://img.shields.io/badge/blog-%2324292e.svg?&style=for-the-badge&logo=rss&logoColor=white alt=blog style="margin-bottom: 5px;" />
