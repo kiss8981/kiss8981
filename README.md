@@ -3,7 +3,7 @@
 
 ### Connect with me  
 <div align="left">
-    <a href="https://www.linkedin.com/in/dhkim0319" target="_blank">
+    <a href="https://www.linkedin.com/in/hyun319" target="_blank">
   <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
   </a>
   <a href="https://kiss8981.github.io" target="_blank">
@@ -27,7 +27,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
 </p>
 
